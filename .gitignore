@@ -1,0 +1,5 @@
+.terraform/
+asecguru.ppk
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
